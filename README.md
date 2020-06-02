@@ -18,4 +18,4 @@ In the NASDAQ folder, I have included three items:
    2. The csv file I created in the above step.
    3. An interactive graph of the DJIA historical closing price info. See link below:
     
-      https://ianfm94.github.io/Financial_Analysis/NASDAQ/Nasdaq_Interactive_Graph.html
+     https://ianfm94.github.io/Financial_Analysis/NASDAQ/Nasdaq_Interactive_Graph.html
