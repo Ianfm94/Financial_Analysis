@@ -22,7 +22,5 @@ In the NASDAQ folder, I have included three items:
      
 In the LSTM_Workings Folder, I have included a number of items:
    1. [Simulating_Financial_Price_Movements_Data.ipynb](https://nbviewer.jupyter.org/github/Ianfm94/Financial_Analysis/blob/master/LSTM_Workings/Notebooks/1.%20Simulating_Financial_Price_Movements_Data.ipynb).
-   2. [Preprocessing_MC_Simulation_Data.ipynb]
-(https://nbviewer.jupyter.org/github/Ianfm94/Financial_Analysis/blob/master/LSTM_Workings/Notebooks/2.%20Preprocessing_MC_Simulation_Data.ipynb).
-   3. [LSTM_Model_Building.ipynb]
-(https://nbviewer.jupyter.org/github/Ianfm94/Financial_Analysis/blob/master/LSTM_Workings/Notebooks/3.%20LSTM_Model_Building.ipynb)
+   2. [Preprocessing_MC_Simulation_Data.ipynb](https://nbviewer.jupyter.org/github/Ianfm94/Financial_Analysis/blob/master/LSTM_Workings/Notebooks/2.%20Preprocessing_MC_Simulation_Data.ipynb).
+   3. [LSTM_Model_Building.ipynb](https://nbviewer.jupyter.org/github/Ianfm94/Financial_Analysis/blob/master/LSTM_Workings/Notebooks/3.%20LSTM_Model_Building.ipynb)
