@@ -19,3 +19,6 @@ In the NASDAQ folder, I have included three items:
    3. An interactive graph of the DJIA historical closing price info. See link below:
     
      https://ianfm94.github.io/Financial_Analysis/NASDAQ/Nasdaq_Interactive_Graph.html
+     
+In the LSTM_Workings Folder, I have included a number of items:
+   1. [LSTM_Model.ipynb](https://nbviewer.jupyter.org/github/Ianfm94/Financial_Analysis/tree/master/LSTM_Workings/LSTM_Model.ipynb).
