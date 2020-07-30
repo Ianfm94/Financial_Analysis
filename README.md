@@ -42,6 +42,6 @@ From the 3rd interactive graph above the below are some averages related to the 
    --- | --- 
    Average RoR Difference for Delta Airlines | 3.73% 
    --- | --- 
-   Average RoR Difference for Southwest Airlines | 3.34% |
+   Average RoR Difference for Southwest Airlines | 3.34% 
    --- | --- 
    Average RoR Difference for United Airlines | 4.66% 
