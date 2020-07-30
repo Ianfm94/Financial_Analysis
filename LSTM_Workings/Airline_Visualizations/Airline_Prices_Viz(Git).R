@@ -44,6 +44,7 @@ plot_prices_1 = ggplot(prices_df,
                                   face = "bold",
                                   color = "black",
                                   hjust = 0.5),
+        legend.title = element_blank(),
         axis.text.x = element_text(angle=45, hjust = 1))
 
 (int_plot = ggplotly(plot_prices_1))
@@ -79,6 +80,7 @@ plot_prices_2 = ggplot(prices_df_2,
                                   face = "bold",
                                   color = "black",
                                   hjust = 0.5),
+        legend.title = element_blank(),
         axis.text.x = element_text(angle=45, hjust = 1))
 
 (int_plot_2 = ggplotly(plot_prices_2))
@@ -113,6 +115,7 @@ plot_prices_3 = ggplot(prices_df_3,
                                   face = "bold",
                                   color = "black",
                                   hjust = 0.5),
+        legend.title = element_blank(),
         axis.text.x = element_text(angle=45, hjust = 1))
 
 (int_plot_3 = ggplotly(plot_prices_3))
