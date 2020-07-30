@@ -38,7 +38,7 @@ Finally, there are the three below interactive graphs made in R:
 From the 3rd interactive graph above the below are some averages related to the differences in RoR between normal trading hours and after hours trading hours.
    Average RoR Difference for All Airlines| *4.12%* 
    --- | ---  
-   Average RoR Difference for American Airlines | *4.77%*
-   Average RoR Difference for Delta Airlines | *3.73%* 
-   Average RoR Difference for Southwest Airlines | *3.34%* 
-   Average RoR Difference for United Airlines | *4.66%* 
+   Average RoR Difference for American Airlines | *4.77%
+   Average RoR Difference for Delta Airlines | *3.73% 
+   Average RoR Difference for Southwest Airlines | *3.34% 
+   Average RoR Difference for United Airlines | *4.66% 
